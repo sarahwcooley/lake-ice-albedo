@@ -1,5 +1,5 @@
 # lake-ice-albedo
-Readme for Google Earth Engine and Matlab scripts used for tracking lake and land snow fraction and albedo and lake contribution to cryosphere radiative effect. Any questions about these scripts should be directed to project leader Sarah Cooley at sarah.cooley@duke.edu 
+Google Earth Engine and Matlab scripts used for tracking lake and land snow fraction and albedo and lake contribution to cryosphere radiative effect. Any questions about these scripts should be directed to project leader Sarah Cooley at sarah.cooley@duke.edu 
 
 Step 1: Process MODIS data in Google Earth Engine. 
 Script: run_lake_tiles_dec17_v1.ipynb (implemented in Google Colab)
